@@ -67,25 +67,36 @@ Enter number of points: 8
 
 Enter Points
 Enter point 1: 2 10
+
 Enter point 2: 2 5
+
 Enter point 3: 8 4
+
 Enter point 4: 5 8
+
 Enter point 5: 7 5
+
 Enter point 6: 6 4
+
 Enter point 7: 1 2
+
 Enter point 8: 4 9
 
 
 Enter Centroid
 Enter Centroid 1: 2 10
+
 Enter Centroid 2: 5 8
+
 Enter Centroid 3: 1 2
 
 ## Output
 
 Let centroids be
 C1: (2.000, 10.000)
+
 C2: (5.000, 8.000)
+
 C3: (1.000, 2.000)
 
 ---
