@@ -1,3 +1,4 @@
+
 # Input for k-means1d
 Enter number of Clusters: 2
 Enter number of points: 9
@@ -8,7 +9,7 @@ Enter Mean
 Enter Mean 1: 2
 Enter Mean 2: 4
 
-#Output for k-means1D
+# Output for k-means1D
 Cluster 1: 2.0 3.0
 Mean 1 = 2.5
 
