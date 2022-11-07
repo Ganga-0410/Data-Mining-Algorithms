@@ -27,4 +27,4 @@ print(dist)
 plt.figure(figsize=(12,5))
 plt.title("Dendrogram with Single inkage")
 dend = shc.dendrogram(shc.linkage(data[['a', 'b']], method='single'), labels=data.index)
-plt.show 
+ 
