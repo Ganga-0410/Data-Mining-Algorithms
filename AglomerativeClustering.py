@@ -22,7 +22,7 @@ plt.title('Scatter Plot of x and y')
 for j in data.itertuples():
 plt.annotate(j.Index, (j.a, j.b), fontsize=15)
 
-dist = pd.DataFrame(squareform(pdist(data[['a', 'b']]), 'euclidean'), columns=data.index.va
+dist = pd.DataFrame(squareform(pdist(data[['a', 'b']]), 'euclidean'), columns=data.index.valuesp)
 dist
                     
 plt.figure(figsize=(12,5))
